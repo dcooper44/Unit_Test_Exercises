@@ -1,0 +1,13 @@
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\bin\Debug\netcoreapp3.1\Unit Test Activity.exe
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\bin\Debug\netcoreapp3.1\Unit Test Activity.deps.json
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\bin\Debug\netcoreapp3.1\Unit Test Activity.runtimeconfig.json
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\bin\Debug\netcoreapp3.1\Unit Test Activity.runtimeconfig.dev.json
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\bin\Debug\netcoreapp3.1\Unit Test Activity.dll
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\bin\Debug\netcoreapp3.1\Unit Test Activity.pdb
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\obj\Debug\netcoreapp3.1\Unit Test Activity.csprojAssemblyReference.cache
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\obj\Debug\netcoreapp3.1\Unit Test Activity.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\obj\Debug\netcoreapp3.1\Unit Test Activity.AssemblyInfoInputs.cache
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\obj\Debug\netcoreapp3.1\Unit Test Activity.AssemblyInfo.cs
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\obj\Debug\netcoreapp3.1\Unit Test Activity.dll
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\obj\Debug\netcoreapp3.1\Unit Test Activity.pdb
+C:\Users\dylan\OneDrive\Documents\GrandCircus\Week 10\Unit Test Activity\Unit Test Activity\Unit Test Activity\obj\Debug\netcoreapp3.1\Unit Test Activity.genruntimeconfig.cache
